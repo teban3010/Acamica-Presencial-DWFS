@@ -10,7 +10,6 @@ Deberiamos conseguir llegar a algo similar a lo que se muestra en la siguiente i
 
 ## Instrucciones
 
-1. Maquetar el sitio similar a la imagen.
 1. Generar una matriz de 16x12 de letras g o n.
 1. Reemplazar aleatoriamente una letra por una q o r (Dependiendo si escogieron g o n relativamente).
     **TIP:** Pueden utilizar la funcion *[Math.random()](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Math/random)* para cambiar la letra aleatoriamente. 
